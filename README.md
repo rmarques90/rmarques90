@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Rafael Marques and I'm a fullstack developer. 
+
+My proficiency is in Java and JavaScript, with it's frameworks like Spring, Node.JS, AngularJS, ReactJS, etc. For databases I most use MS SQL Server and MongoDB.
+
+This repository have some code that I've developed to study and stuff to play with.
+
 <!--
 **rmarques90/rmarques90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
